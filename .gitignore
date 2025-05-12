@@ -1,1 +1,4 @@
-/books
+__pycache__/
+.venv/
+books/
+*2.py
